@@ -38,5 +38,22 @@ body{
     font-style: italic;
 
 }
+.villageois{
+    border-left: solid violet;
+ 
+}
+.fermié{
+    border-left: solid green;
+}
 
+h1{
+    background-color: yellow;
+}
 
+.good{
+    text-transform: uppercase;
+}
+
+.bad{
+    text-transform: uppercase;
+}
