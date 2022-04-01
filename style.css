@@ -52,8 +52,20 @@ h1{
 
 .good{
     text-transform: uppercase;
+    color: green;
 }
 
 .bad{
     text-transform: uppercase;
+    color: red;
+}
+table{
+    border: 1px solid;
+}
+tr:nth-child(even) {
+    background-color: grey;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
 }
