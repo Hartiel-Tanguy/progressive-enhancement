@@ -1,0 +1,42 @@
+p{
+    font-family: serif;
+    padding: 10px;
+    font-size: 18px;
+    color: lightslategrey;
+
+}
+a{
+    color: aqua;
+}
+body{
+    width: 90%;
+    margin: auto;
+    background-image: url(https://geo.img.pmdstatic.net/fit/https.3A.2F.2Fprd-dst-website-statics.2Es3.2Eeu-west-1.2Eamazonaws.2Ecom.2Fcontent.2Fuploads.2F2021.2F01.2Flandscape-4055549_1920.2Ejpg/715x420/background-color/ffffff/quality/70/dans-ce-village-chinois-prise-des-touristes-tout-est-faux.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;
+    background: -webkit-linear-gradient(55deg, rgb(218, 237, 255), rgb(117, 139, 161));
+    background: linear-gradient(55deg, rgb(218, 237, 255), rgb(117, 139, 161));;
+
+
+}
+
+
+    blockquote{
+    width: 50%;
+    margin: auto;
+    font-size: 160%;
+    background-color: rgb(197, 197, 197);
+    border-left: 3px solid firebrick ;
+    padding-left: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+.citation{
+    font-style: italic;
+
+}
+
+
