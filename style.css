@@ -69,3 +69,26 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
     background-color: white;
 }
+
+.un{
+    background-image:url("img/bien.png");
+    background-repeat: no-repeat;
+    background-size: 1.3em;
+    background-position: 350px;
+    font-weight: bold;
+    
+
+}
+.deux{
+    background-image:url("img/mal.png");
+    background-repeat: no-repeat;
+    background-size: 1.3em;
+    background-position: 390px;
+}
+.troi{
+    background-image:url("img/chat.png");
+    background-repeat: no-repeat;
+    background-size: 1.3em;
+    background-position: 350px;
+
+}
