@@ -9,6 +9,7 @@ a{
     color: aqua;
 }
 body{
+    
     width: 90%;
     margin: auto;
     background-image: url(https://geo.img.pmdstatic.net/fit/https.3A.2F.2Fprd-dst-website-statics.2Es3.2Eeu-west-1.2Eamazonaws.2Ecom.2Fcontent.2Fuploads.2F2021.2F01.2Flandscape-4055549_1920.2Ejpg/715x420/background-color/ffffff/quality/70/dans-ce-village-chinois-prise-des-touristes-tout-est-faux.jpg);
@@ -17,7 +18,7 @@ body{
     background-size: cover;
     background: -webkit-linear-gradient(55deg, rgb(218, 237, 255), rgb(117, 139, 161));
     background: linear-gradient(55deg, rgb(218, 237, 255), rgb(117, 139, 161));;
-
+ 
 
 }
 
@@ -91,4 +92,17 @@ tr:nth-child(odd) {
     background-size: 1.3em;
     background-position: 350px;
 
+}
+section{
+    display: flex;
+    flex-direction: column;
+}
+.now{
+    display: flex;
+}
+img{
+    width: 370px;
+}
+.container{
+    justify-content: space-between;
 }
